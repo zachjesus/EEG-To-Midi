@@ -83,7 +83,7 @@ The script sends OSC bundles containing four messages:
 ## Advice 
   - Mess with the moving average period
   - Setting correct max numbers for the brainwave is essential for smooth function (should be done based on testing)
-  - 
+
   I did not add a minimum constant, and used zero, however, it may be set where the smoothstep function is called
 
 ## Example MAX Usage
