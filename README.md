@@ -70,7 +70,7 @@ python eegToMidi.py
    - Process the data
    - Send OSC messages to the specified IP and port
    
-   You can run the EEG on one computer, and this program on another. By connecting them via ethernet and setting up the networking correctly it should be seamless. 
+You can run the EEG on one computer, and this program on another. By connecting them via ethernet and setting up the networking correctly it should be seamless. 
 
 ## OSC Message Format
 
@@ -84,7 +84,7 @@ The script sends OSC bundles containing four messages:
   - Mess with the moving average period
   - Setting correct max numbers for the brainwave is essential for smooth function (should be done based on testing)
 
-   I did not add a minimum constant, and used zero, however, it may be set where the smoothstep function is called
+I did not add a minimum constant, and used zero, however, it may be set where the smoothstep function is called
 
 ## Example MAX Usage
 
