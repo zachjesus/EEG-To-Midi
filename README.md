@@ -89,3 +89,5 @@ I did not add a minimum constant, and used zero, however, it may be set where th
 ## Example MAX Usage
 
 ![image](https://github.com/user-attachments/assets/ef6cd470-7da8-49d9-9674-f6ec9b759d30)
+
+Example is using CNMAT o.dot for more control over OSC messages. See: https://github.com/CNMAT/CNMAT-odot.
