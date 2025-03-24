@@ -2,6 +2,8 @@
 
 This Python script bridges EEG data streams to OSC messages, converting brainwave data (delta, theta, alpha, and beta waves) into MIDI-compatible values. It's designed to work with Lab Streaming Layer (LSL) for EEG input and sends the processed data via OSC messages to your desired ip/port.
 
+CODE BASE WILL BE SIMPLIFIED SOON. FREQ TO MJDI AND RAW FREQUENCY WILL BE OUTPUTTED TOO. MEAN-AVERAGING CODE WILL BE DONE IN SIMULINK. 
+
 ## Features
 
 - Reads EEG data from LSL streams
